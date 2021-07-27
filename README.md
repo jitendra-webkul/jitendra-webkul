@@ -6,7 +6,7 @@
 
 ## I'm a Husband, Son, and Developer!!
 
-- 🌱 I’m currently working laravel opensource CRM everything: [Kraying CRM][crm_link]!
+- 🌱 I’m currently working on Laravel opensource CRM: [Kraying CRM][crm_link]!
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn new technologies
 - ⚡ I love to watch movies and tv shows in my spare times
 
