@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jitendrajitu2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjitendrajitu2&screen_name=jitendrajitu2)
 
-## I'm a Husband, Son, and Developer!!
+## I'm a Father, Husband, Son, and Developer!!
 
 - 🌱 I’m currently working on Laravel opensource CRM: [Krayin CRM][crm_link]!
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn new technologies
