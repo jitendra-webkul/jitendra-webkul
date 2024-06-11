@@ -7,7 +7,7 @@
 I am a dedicated Father, Husband, Son, and passionate Developer.
 
 - 🌱 **Current Project:** Actively developing [Krayin CRM][crm_link] and [Bagisto][bagisto_link], an open-source projects built with Laravel.
-- 🥅 **2021 Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies.
+- 🥅 **Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies.
 - 👨‍💻 **Professional Experience:** Over 10 years of experience in software development, specializing in web and application development.
 - 📚 **Learning:** Continuously improving my skills in Laravel, Vue.js, ReactJS, NextJs, Tailwind CSS, and modern web development practices.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
