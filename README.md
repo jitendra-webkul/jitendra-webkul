@@ -2,11 +2,17 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jitendrajitu2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjitendrajitu2&screen_name=jitendrajitu2)
 
-## I'm a Father, Husband, Son, and Developer!!
+## About Me
 
-- 🌱 I’m currently working on Laravel opensource CRM: [Krayin CRM][crm_link]!
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn new technologies
-- ⚡ I love to watch movies and tv shows in my spare times
+I am a dedicated Father, Husband, Son, and passionate Developer.
+
+- 🌱 **Current Project:** Actively developing [Krayin CRM][crm_link] and [Bagisto][bagisto_link], an open-source projects built with Laravel.
+- 🥅 **2021 Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies.
+- 👨‍💻 **Professional Experience:** Over 10 years of experience in software development, specializing in web and application development.
+- 📚 **Learning:** Continuously improving my skills in Laravel, Vue.js, ReactJS, NextJs, Tailwind CSS, and modern web development practices.
+- 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
+- 💬 **Let's Connect:** Feel free to reach out to me on [LinkedIn][linkedin] or [Twitter][twitter].
+- ⚡ **Interests:** In my free time, I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family.
 
 ### Connect with me:
 
@@ -43,6 +49,7 @@
 <img align="left" alt="Jitendra Singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jitendra-webkul&show_icons=true&hide_border=true" />
 
 [crm_link]: https://github.com/krayin/laravel-crm
+[bagisto_link]: https://github.com/bagisto/bagisto
 [facebook]: https://facebook.com/jitendra.jitu.100
 [twitter]: https://twitter.com/jitendrajitu2
 [instagram]: https://instagram.com/jitendra.singh15
