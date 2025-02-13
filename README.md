@@ -6,13 +6,13 @@
 
 I am a dedicated Father, Husband, Son, and passionate Developer.
 
-- 🌱 **Current Project:** Actively developing [Krayin CRM][crm_link] and [Bagisto][bagisto_link], an open-source projects built with Laravel.
-- 🥅 **Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies.
-- 👨‍💻 **Professional Experience:** Over 10 years of experience in software development, specializing in web and application development.
-- 📚 **Learning:** Continuously improving my skills in Laravel, Vue.js, ReactJS, NextJs, Tailwind CSS, and modern web development practices.
+- 🌱 **Current Project:** Actively developing [Krayin CRM][crm_link], [Bagisto][bagisto_link], [Aureuserp][aureuserp_link], and blockchain projects like [FTNFT][ftnft_link] and [FTNFT Armenia][ftnft_am_link].
+- 🥅 **Goals:** Increase contributions to open-source projects and expand my knowledge of emerging technologies, particularly in Web3 and blockchain.
+- 👨‍💻 **Professional Experience:** Over 10 years of experience in software development, specializing in web, blockchain, and application development.
+- 📚 **Learning:** Continuously improving my skills in Laravel, Vue.js, ReactJS, NextJS, Node.js, Solidity, Web3.js, Ethers.js, Tailwind CSS, and modern web development practices.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
+- ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
 - 💬 **Let's Connect:** Feel free to reach out to me on [LinkedIn][linkedin] or [Twitter][twitter].
-- ⚡ **Interests:** In my free time, I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family.
 
 ### Connect with me:
 
@@ -30,9 +30,13 @@ I am a dedicated Father, Husband, Son, and passionate Developer.
 <code><img alt="SASS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" /></code>
 <code><img alt="Tailwind CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img alt="Java Script" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
 <code><img alt="Vue Js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img alt="Angular" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img alt="Next.js" height="40" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
+<code><img alt="Solidity" height="40" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png"></code>
+<code><img alt="Web3.js" height="40" src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo/web3js.jpg"></code>
 <code><img alt="Backbone Js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/backbonejs/backbonejs.png"></code>
 <code><img alt="PHP" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></code>
 <code><img alt="Laravel" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" /></code>
@@ -43,7 +47,6 @@ I am a dedicated Father, Husband, Son, and passionate Developer.
 <code><img alt="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img alt="Github" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 
-
 <br />
 
 ---
@@ -52,6 +55,9 @@ I am a dedicated Father, Husband, Son, and passionate Developer.
 
 [crm_link]: https://github.com/krayin/laravel-crm
 [bagisto_link]: https://github.com/bagisto/bagisto
+[aureuserp_link]: https://github.com/aureuserp/aureuserp
+[ftnft_link]: https://ftnft.com
+[ftnft_am_link]: https://ftnft.am
 [facebook]: https://facebook.com/jitendra.jitu.100
 [twitter]: https://twitter.com/jitendrajitu2
 [instagram]: https://instagram.com/jitendra.singh15
