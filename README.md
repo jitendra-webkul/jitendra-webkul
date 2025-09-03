@@ -10,9 +10,6 @@ I am a dedicated Father, Husband, Son, and passionate Developer.
 - 📚 **Learning:** Continuously improving my skills in Laravel, Vue.js, ReactJS, NextJS, Node.js, Express.js, Solidity, Web3.js, Ethers.js, Tailwind CSS, and modern web development practices.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
 - ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
-- 💬 **Let's Connect:** Feel free to reach out to me on [LinkedIn][linkedin] or [Twitter][twitter].
-
-<br />
 
 ### Languages and Tools:
 
