@@ -1,7 +1,5 @@
 ### Hi there, I'm Jitendra Singh 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jitendrajitu2?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjitendrajitu2&screen_name=jitendrajitu2)
-
 ## About Me
 
 I am a dedicated Father, Husband, Son, and passionate Developer.
@@ -13,13 +11,6 @@ I am a dedicated Father, Husband, Son, and passionate Developer.
 - 🤝 **Collaboration:** Always open to collaborating on interesting projects and contributing to the developer community.
 - ⚡ **Interests:** I enjoy watching movies and TV shows, exploring new tech gadgets, and spending time with my family in my free time.
 - 💬 **Let's Connect:** Feel free to reach out to me on [LinkedIn][linkedin] or [Twitter][twitter].
-
-### Connect with me:
-
-[<img align="left" alt="jitendra-webkul | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="jitendra-webkul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jitendra-webkul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jitendra-webkul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -64,7 +55,3 @@ I am a dedicated Father, Husband, Son, and passionate Developer.
 [aureuserp_link]: https://github.com/aureuserp/aureuserp
 [ftnft_link]: https://ftnft.com
 [ftnft_am_link]: https://ftnft.am
-[facebook]: https://facebook.com/jitendra.jitu.100
-[twitter]: https://twitter.com/jitendrajitu2
-[instagram]: https://instagram.com/jitendra.singh15
-[linkedin]: https://linkedin.com/in/jitendra-singh-a2214876
